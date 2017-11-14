@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">E5_Initiative_1</string>
+    <string name="title">Formulario de registro de usuario.</string>
+    <string name="name">Introduce tu nombre</string>
+    <string name="pass">Introduce tu password</string>
+    <string name="mail">Introduce tu email</string>
+    <string name="sex">Introduce tu sexo:</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="country">Introduce tu país de origen:</string>
+    <string name="ads">¿Deseas recibir publicidad?</string>
+    <string name="no">No</string>
+    <string name="yes">Sí</string>
+    <string name="send">Enviar formulario</string>
+    <string name="experiencia">Evalúa tu experiencia hoy:</string>
+    <string name="end">Finalizar</string>
+    <string name="thanks">¡Gracias por registrarte! Ya puedes utilizar Internet.</string>
+</resources>
